@@ -1,0 +1,13 @@
+# Environment variables (contains secret API keys)
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS files
+.DS_Store

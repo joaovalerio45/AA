@@ -1,0 +1,13 @@
+langchain
+langchain-ollama
+langchain-community
+langchain-tavily
+langchain-text-splitters
+langchain-huggingface
+langgraph
+langsmith
+langgraph-cli[inmem]
+langgraph-checkpoint-sqlite
+python-dotenv
+sentence-transformers
+chromadb
