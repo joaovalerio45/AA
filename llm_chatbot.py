@@ -1,11 +1,11 @@
 import operator
 import os
-from dotenv import load_dotenv
-from langchain_ollama import ChatOllama
+from dotenv import load_dotenv # type: ignore
+from langchain_ollama import ChatOllama # type: ignore
 from typing import Annotated, TypedDict
-from langgraph.graph import StateGraph
-from langgraph.graph import START
-from langgraph.graph import END
+from langgraph.graph import StateGraph # type: ignore
+from langgraph.graph import START # type: ignore
+from langgraph.graph import END # type: ignore
 
 load_dotenv()
 
@@ -19,9 +19,7 @@ client_kwargs={"headers": {"Authorization":
 f"Bearer {api_key}"}}
 )
 
-# llm.num_ctx = 
-# llm.temperature = 
-# lm.seed = 
+
 
 class State(TypedDict):
     msgs: Annotated[list[str], operator.add]
