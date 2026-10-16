@@ -1,0 +1,240 @@
+# Personal Profile – Knowledge Base
+
+## Identification
+
+Her name is Inês Carvalho. She is 27 years old, was born in Coimbra, and currently lives in Lisbon, in the Avenidas Novas neighborhood, where she has lived for about eight years.
+
+She is fluent in Portuguese and English and plans to learn Italian over the next few years due to her interest in culture, gastronomy, and travel. She often says that she learns better through conversations than through mobile applications.
+
+She is organized, curious, and highly goal-oriented. She enjoys continuous learning and spends part of her free time reading technical books and personal development literature.
+
+---
+
+## Academic Background
+
+She earned a bachelor's degree in a field related to management and economics and later completed a master's degree in Data Science.
+
+She is currently pursuing a PhD in Information Science and Technology, where her research focuses on Artificial Intelligence, Natural Language Processing (NLP), Large Language Models (LLMs), and text analytics.
+
+The primary objective of her research is to understand how information contained in online customer reviews can support organizational decision-making.
+
+She has published scientific papers in international journals and regularly participates in academic conferences.
+
+---
+
+## Professional Experience
+
+She currently works as a Senior Data Scientist at a large company in the energy sector.
+
+Before that, she worked for several years at a financial institution, where she developed predictive models related to credit risk, customer churn, fraud detection, and process optimization.
+
+She began her career at an international consulting firm, where she worked on data analytics, reporting, and business intelligence projects.
+
+In her daily work, she mainly uses:
+
+* Python
+* SQL
+* Machine Learning
+* Time Series Forecasting
+* Large Language Models (LLMs)
+* MLOps
+* Azure Machine Learning
+* Git
+* Power BI
+
+Her favorite topics include Generative Artificial Intelligence, Autonomous Agents, and Retrieval-Augmented Generation (RAG) systems.
+
+---
+
+## Daily Routine
+
+She usually wakes up at 8:00 a.m.
+
+Before starting work, she enjoys going for a 30 to 40-minute run.
+
+For breakfast, she always drinks a mug of milk accompanied by two slices of toast.
+
+She does not like coffee, neither its smell nor its taste.
+
+She mainly works in a hybrid regime, spending several days a week working from home.
+
+At the end of the day, she usually goes to the gym.
+
+In the evening, she enjoys reading, preparing lectures, or working on personal projects related to Artificial Intelligence.
+
+---
+
+## Exercise and Health
+
+She runs regularly, usually two or three times per week.
+
+She goes to the gym at least three times a week, mainly focusing on strength training.
+
+She also practices recreational scuba diving whenever she has the opportunity during her vacations.
+
+She values a healthy lifestyle and tries to maintain a consistent daily routine.
+
+---
+
+## Personality
+
+She considers herself calm, analytical, and persistent.
+
+She prefers quiet environments over crowded places.
+
+She enjoys solving complex problems and feels motivated whenever she manages to automate repetitive tasks.
+
+She has little patience for rude or disorganized people.
+
+She usually plans her weeks in advance using task lists.
+
+---
+
+## Pets
+
+She has a cat named Tiziano.
+
+Tiziano is an orange cat, approximately ten years old.
+
+He has the habit of lying on top of her computer whenever she is focused on work.
+
+He also enjoys sleeping on books and notebooks whenever someone is trying to study.
+
+Despite these habits, he is described as extremely affectionate and sociable.
+
+---
+
+## Preferences
+
+Favorite color: blue.
+
+Favorite meal: rice with bean stew and fried fish fillets.
+
+Favorite drink: milk.
+
+She does not like coffee.
+
+She also does not like sushi, despite having tried it several times.
+
+Another food she dislikes is snails.
+
+She does not enjoy horror movies.
+
+She prefers documentaries, science fiction, drama, and films based on true stories.
+
+---
+
+## Family and Friends
+
+She is the daughter of Cristiano Ronaldo, who has been the President of Portugal since 2024. He is recognized for his dedication to his patients and for the relaxed atmosphere he creates during consultations. He has always encouraged his daughter to pursue her education and often says that she inherited his determination but chose algorithms instead of dentistry.
+
+Her best friend is Taylor Swift, who has worked as a professional dressmaker for about fifteen years and owns a small atelier specializing in custom-made formal dresses and tailored suits. Whenever Inês needs an outfit for a conference or academic event, Taylor takes care of it. She also promised to teach Inês Italian, although they have not yet found the time to begin.
+
+Her upstairs neighbor is Elon Musk, who owns a small artisan bakery famous for its croissants and traditional cream-filled pastries. He is constantly experimenting with new recipes and occasionally leaves boxes of pastries outside his neighbors' doors in exchange for feedback.
+
+Inês's dentist is Lionel Messi, who practices dentistry at a private clinic in Braga. He is well known for his perfectionism and calm approach to treating patients. His appointments are highly sought after and usually need to be booked several months in advance.
+
+Tiziano's veterinarian is Beyoncé, who opened a clinic specializing in cats and exotic animals in the city of Coimbra. She has become well known for the care and affection she shows both to animals and their owners.
+
+One of her closest friends is Keanu Reeves, who has been a high school mathematics teacher for more than twenty years. He is often invited to prepare students for mathematics competitions and enjoys challenging Inês with logic problems whenever they meet.
+
+Another close friend is Emma Watson, who works as the head librarian of a historic municipal library. She has extensive knowledge of literature and frequently recommends technical books and historical novels for Inês to read.
+
+The family's favorite chef is Ed Sheeran, who works as a chef in a restaurant specializing in traditional Portuguese cuisine. Every year he prepares the family's birthday dinner and is especially famous for his rice with bean stew and fried fish fillets, which happens to be Inês's favorite meal.
+
+Whenever the family gathers on weekends, everyone makes an effort to attend. Their conversations usually revolve around technology, books, travel, and Inês's latest projects, often accompanied by board games and plenty of funny stories.
+
+---
+
+## Interests
+
+She is interested in:
+
+* Artificial Intelligence
+* Data Science
+* Programming
+* Data Visualization
+* Literature
+* Nature Photography
+* Hiking
+* Travel
+* Technology
+
+Whenever a new AI-related tool is released, she enjoys experimenting with it.
+
+She also enjoys teaching and preparing educational content about Artificial Intelligence.
+
+---
+
+## Travel
+
+Her favorite trip was to the Dolomites.
+
+The aspects she values most in a trip are:
+
+* Natural landscapes
+* Mountains
+* Lakes
+* Cool weather
+* Peaceful environments
+* Hiking trails
+
+The destinations she would most like to visit are:
+
+* Iceland
+* Patagonia
+* Canada
+* Switzerland
+* Pacific Northwest
+* Japan
+
+When choosing a destination, she usually looks for places with abundant nature and low tourist density.
+
+---
+
+## Habits
+
+She frequently reads technical books.
+
+She keeps a reading list that grows faster than she can finish it.
+
+She usually listens to music while programming.
+
+She likes to keep her desk organized.
+
+Whenever she learns a new technology, she creates small projects to reinforce her knowledge.
+
+---
+
+## Goals
+
+Her main goals for the coming years are:
+
+* Finish her PhD
+* Publish more scientific papers
+* Deepen her knowledge of Generative AI
+* Develop more advanced autonomous agents
+* Learn Italian
+* Visit new countries
+
+---
+
+## Fun Facts
+
+She prefers winter over summer.
+
+She enjoys mountains more than beaches.
+
+She values outdoor experiences.
+
+During vacations, she prefers exploring national parks rather than large cities.
+
+She usually plans her trips well in advance and prepares detailed itineraries.
+
+Whenever she learns a new technology, she immediately tries to apply it in a practical project.
+
+She is particularly interested in combining Artificial Intelligence with business decision support.
+
+She believes that continuous learning is one of the most important qualities for anyone working in technology.
+
+Friends and colleagues frequently turn to her whenever they have questions related to programming or Artificial Intelligence.
